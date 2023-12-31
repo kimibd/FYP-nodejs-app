@@ -1,0 +1,52 @@
+body {
+    background-color: darkgray;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    padding: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 8px;
+}
+
+nav li a:hover {
+    text-decoration: none;
+    color: dimgray;
+}
+
+div a {
+    color: rgb(59, 59, 59);
+    color: gray;
+}
+
+.card-head {
+    font-weight: bold;
+    padding: 10px 15px;
+}
+
+h1 {
+    color: ghostwhite;
+}
+
+h3 {
+    color: ghostwhite;
+}
+
